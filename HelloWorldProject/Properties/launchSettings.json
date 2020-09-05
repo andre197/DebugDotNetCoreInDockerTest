@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HelloWorldProject": {
+      "commandName": "Executable",
+      "executablePath": "D:\\Projects\\TestDockerDebugging\\StartUpProject\\StartUpProject\\StartUpProject.App\\bin\\Debug\\netcoreapp3.1\\StartUpProject.App.exe"
+    }
+  }
+}
